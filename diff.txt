@@ -1,0 +1,7 @@
+diff --git a/todo.txt b/todo.txt
+index 8fa2a85..adf6258 100644
+--- a/todo.txt
++++ b/todo.txt
+@@ -1 +1,2 @@
+ засыпашки 5
++засыпашки
