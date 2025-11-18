@@ -1,0 +1,16 @@
+*   0b7d889 Merge branch 'feature2'
+|\  
+| * 197e715 feature2 change
+* |   c8469d9 Merge branch 'feature1'
+|\ \  
+| * | ca0b36c feature1 change
+| |/  
+* | 27ddc12 save diff.txt before merge
+* | de4c872 add засыпашки послет октата
+|/  
+* cadbbcc add todo.txt 5
+* cbafa6d add todo.txt 4
+* 328818d add todo.txt 3
+* 6b300b5 add todo.txt 2
+* a488583 add todo.txt 1
+* eea0e54 init
