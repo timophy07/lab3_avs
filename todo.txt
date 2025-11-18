@@ -1,2 +1,5 @@
+ HEAD
 засыпашки 5
 засыпашки
+feature1 modification
+feature1
